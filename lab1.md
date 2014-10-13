@@ -1,7 +1,7 @@
 ####Instructions
 1.  Launch Impact Pro using the desktop icon provided.
  
-Create a new blank workspace. 
+**Create a new blank workspace.** 
 
 2.  From the file menu, select new workspace, black workspace.
 3.  Provide a workspace name and password of your choosing.
