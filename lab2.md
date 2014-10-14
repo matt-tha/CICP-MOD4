@@ -1,18 +1,9 @@
 #### Instructions
 
-1. Keep providing instrucions.
+1. From the Tools menu select Options. 
+2. Use the Network Interface dropdown from the Network options to select the 10.12.4.0 adapter.
+3. Close the options menu.
 
-2. If this is the last lab then end with the next step:
-
-3. You have completed this block of instruction. Please read the conclusion at
-    ```
-    /root/THA/NAME-OF-LAB/Conclusion.md
-    ```
-
-4. If there are more labs in the series make sure you end with the next step:
-
-5. You have completed this lab. You can continue to lab 3 by following the instructions found at 
-    ```
-    /root/THA/NAME-OF-LAB/lab3.md
+This concludes the lab exercise.
     ```
 
