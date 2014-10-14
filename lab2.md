@@ -5,5 +5,4 @@
 3. Close the options menu.
 
 This concludes the lab exercise.
-    ```
 
