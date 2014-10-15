@@ -1,6 +1,6 @@
 #### Instructions
 
-1. Select Network RPT #1, Network Information Gathering from the RPT pane of the left hand side of the workspace. 
+1. Select Network RPT number 1, Network Information Gathering from the RPT pane of the left hand side of the workspace. 
 2. On the Target Discovery Method screen select the first option, Use CORE Impact to preform Information Gathering against the target IP addresses. 
 3. Select IP version 4 as the Target network IP version. 
 4. Specify the network rage of 10.12.4.0/24 
