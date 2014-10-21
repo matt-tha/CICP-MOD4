@@ -6,4 +6,4 @@
 4.  Provide a Company/Test area name of your choosing, use your name for the Contact name.
 5.  Continue through the wizard with default settings to create your workspace.
 
-This concludes the lab exercise, continue to lab 2.
+This concludes the lab exercise, continue to exercise 2.

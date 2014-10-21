@@ -4,5 +4,5 @@
 2. If it is not already selected; use the Network Interface dropdown from the Network options to select the 10.12.4.10 adapter.
 3. Close the options menu.
 
-This concludes the lab exercise, continue to lab 3.
+This concludes the lab exercise, continue to exercise 3.
 
