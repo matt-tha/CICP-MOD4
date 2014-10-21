@@ -8,4 +8,4 @@
 6. On the Advanced Settings screen de-select Perform Surveillance Cameras fingerprinting and select Check for Network Exposures. 
 7. Examine the discovered entities using the Quick Information pane in the lower section of the interface. 
 
-This concludes the lab exercise.
+This concludes the lab exercise, continue to lab 4.
