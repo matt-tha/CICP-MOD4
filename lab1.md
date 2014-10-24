@@ -7,3 +7,4 @@
 5.  Continue through the wizard with default settings to create your workspace.
 
 This concludes the lab exercise, continue to exercise 2.
+
