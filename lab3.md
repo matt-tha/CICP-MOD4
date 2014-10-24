@@ -9,4 +9,4 @@
 
 7. Examine the discovered entities using the Quick Information pane in the lower section of the interface. 
 
-This concludes the lab exercise.
+This concludes the lab exercise, continue to exercise 4.
