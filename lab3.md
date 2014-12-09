@@ -5,7 +5,7 @@
 3. Select IP version 4 as the Target network IP version. 
 4. Specify the network rage of 10.12.4.0/24 
 5. For Network Scan Type, proceed with the default selection, Detailed. 
-6. On the Advanced Settings screen, de-select Perform Surveillance Cameras fingerprinting and select Check for Network Exposures. Examine the discovered entities using the Quick Information pane in the lower section of the interface.
+6. On the Advanced Settings screen, de-select Perform Surveillance Cameras fingerprinting and select Check for Network Exposures. 
 
 7. Examine the discovered entities using the Quick Information pane in the lower section of the interface. 
 
